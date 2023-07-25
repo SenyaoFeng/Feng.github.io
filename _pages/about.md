@@ -26,4 +26,4 @@ Feng, S., et al., (2023). A Comprehensive Ecological Risk Assessment Framework f
 Feng, S., et al., (2022). Land Use/Land Cover Mapping Based on GEE for the Monitoring of Changes in Ecosystem Types in the Upper Yellow River Basin over the Tibetan Plateau *Remote Sensing*, 14(21), 5361. [link](https://www.mdpi.com/2072-4292/14/21/5361))
 
 ## For more information
-More info about Senyao Feng can be found in [CV](https://Feng.github.io/cv/) or [downloaded CV](http://Feng.github.io/files/CV_senyaofeng.pdf).
+More info about Senyao Feng can be found in [CV](https://senyaofeng.github.io/Feng.github.io/cv/) or [downloaded CV](https://senyaofeng.github.io/Feng.github.io/files/CV_senyaofeng.pdf).
