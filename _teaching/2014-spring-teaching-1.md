@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-T1-WRE_UNSW
 venue: "School of Grassland Agricultural Science and Technology, LZU Lanzhou"
-date: 2021
+date: 2021-07-16
 location: "Lanzhou, China"
 ---
 * Teaching period: T1, 2021
