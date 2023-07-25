@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Survey of ecosystems in the Qilian Mountains"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2019-T1-WRE_UNSW
+venue: "School of Grassland Agricultural Science and Technology, LZU Lanzhou"
+date: 2021
+location: "Lanzhou, China"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Teaching period: T1, 2021
+* Position: Teaching Assistant 
+* Role: Demonstrator and Tutor
+* Number of students: 40
+* Course Profile: [Download](https://senyaofeng.github.io/Feng.github.io/files/Feng-Ecosur.pdf)
