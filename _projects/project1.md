@@ -1,6 +1,6 @@
 ---
 title: "Remote sensing monitoring of ecological changes in the Yellow River Basin"
-excerpt: "Central University Discipline Cross-Innovation Team Building Program <br/><img src='/images/yrb-a.png'>"
+excerpt: "Central University Discipline Cross-Innovation Team Building Program <br/><img src='Feng.github.io/images/yrb-b.png'>"
 collection: projects
 date: 2020-08-05
 ---
