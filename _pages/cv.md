@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +8,34 @@ redirect_from:
 
 {% include base_path %}
 
+Download [CV](http://Feng.github.io/files/CV_Feng.pdf)
+======
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Land Resource Management, Sichuan Agricultural University, Chengdu, China, 2016-2020
+* M.Agr. in Grassland Science, Lanzhou University, Lanzhou, China, 2020-2023
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Land use/land cover change monitoring (e.g. large-scale LULC monitoring & Driving Force)
+* Remote Sening and Geographic Information System
+* Climate change impact on the ecosystems (e.g. grassland droughts)
+* Ecological Risk Assessment and Environmental Management
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Mandarin, English, Cantonese, Japanese
   
-Teaching
+Skills & Expertise
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Skills: Python, Matlab, R, Javascript (Google Earth Engine)
+* Ability: Machine Learning, Remote Sensing-based Ecological Assessment.
+* Tools: rich experience in using Arcpy, Erdas, ENVI, ArcGIS Pro, IDRISI, QGIS, eCognition, Sigmaplot, Origin and Visio.
+* Interest Areas: Ecosystem Services, Ecological Risk Assessment, Eco-Health, LUCC.
