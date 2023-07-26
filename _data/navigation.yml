@@ -11,12 +11,12 @@ main:
     
   - title: "Projects"
     url: /projects/
-  
-  - title: "Software"
-    url: /Software/  
-
+   
   - title: "CV"
     url: /cv/
     
   - title: "Blog"
     url: /year-archive/
+    
+  - title: "Software"
+    url: /Software/ 
