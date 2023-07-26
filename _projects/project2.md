@@ -1,10 +1,10 @@
 ---
-title: "Remote sensing monitoring of ecological changes in the Yellow River Basin"
-excerpt: "Central University Discipline Cross-Innovation Team Building Program <br/><img src='https://senyaofeng.github.io/Feng.github.io/images/yrb-a.png'>"
+title: "Coupling Mechanism Interaction and Comprehensive Management of Ecological-Hydrological Processes in Ecologically Fragile Areas of the Yellow River Basin"
+excerpt: "Participate in the data collection, preprocessing and mapping of the project <br/><img src='https://senyaofeng.github.io/Feng.github.io/images/hhsy-a.png'>"
 collection: projects
-date: 2020-08-05
+date: 2021-07-22
 ---
 
-The upper Yellow River basin over the Tibetan Plateau (TP) is an important ecological barrier in northwestern China. Effective LULC products that enable the monitoring of changes in regional ecosystem types are of great importance for their environmental protection and macro-control. The project combined an 18-class LULC classification scheme based on ecosystem types with Sentinel-2 multi-temporal data, the GEE platform, and the RF machine learning method to present new high-resolution LULC products with a spatial resolution of 10 m for the upper Yellow River basin over the TP and conducted monitoring of changes in ecosystem types.
-
-*  Provide effective data support for the monitoring of regional scale ecosystem types, quality assessments and protection, natural resource management, and sustainable development of the upper Yellow River basin over the TP.
+*  The project is committed to revealing the mutual feeding mechanism of hydrological process and ecological process under environmental changes in typical fragile ecological areas.
+*  Researching the coupling driving mechanism and simulation method of ecological-hydrological process, and building a comprehensive technical system integrating risk identification, assessment, prediction and forecasting.
+*  Early warning, put forward a coordinated plan for comprehensive water management of "mountains, rivers, forests, fields, lakes, grass, and sand" and a stable and moderate coordination plan to coordinate and improve the carrying capacity of resources, water, environment, and water ecology.
