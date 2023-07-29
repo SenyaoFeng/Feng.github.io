@@ -37,6 +37,6 @@ Mandarin, English, Cantonese, Japanese
 Skills & Expertise
 ======
 * Programming Skills: Python, Matlab, R, Javascript (Google Earth Engine)
-* Ability: Machine Learning, Remote Sensing-based Ecological Assessment.
+* Ability: Machine Learning, Remote Sensing-based Inversion, Ecological Assessment.
 * Tools: rich experience in using Arcpy, Erdas, ENVI, ArcGIS Pro, IDRISI, QGIS, eCognition, Sigmaplot, Origin and Visio.
 * Interest Areas: Ecosystem Services, Ecological Risk Assessment, Eco-Health, LUCC.
