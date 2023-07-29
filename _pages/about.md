@@ -17,12 +17,12 @@ I am a Master’s Degree Student in the Lanzhou University and [SKLAGE@LZU](http
 * Remote Sening and Geographic Information System
 * Land Use/Land Cover Change Monitoring
 * Ecological Assessment Based on Remote Sensing
-  * Satellite-Based Vegetation Inversion
+* Satellite-Based Vegetation Inversion
 
 ## Selected Journal Publications
-Feng, S., et al., (2023). Drought monitoring and drought risk assessment of alpine grasslands on the Tibetan Plateau under climate change. Ready to Submit. In preparation for submission to *AGRICULTURE ECOSYSTEMS & ENVIRONMENT*.
+Feng, S., et al., (2023). Drought monitoring and drought risk assessment of alpine grasslands on the Tibetan Plateau under climate change. Ready to Submit. In preparation for submission to *Agricultural Ecosystems and Environment*.
 
-Feng, S., et al., (2023). A Comprehensive Ecological Risk Assessment Framework for Grasslands--A Case Study of Gannan Prefecture, Northeastern Tibetan Plateau. Ready to Submit. In preparation for submission to *JOURNAL OF CLEANER PRODUCTION*.
+Feng, S., et al., (2023). A Comprehensive Ecological Risk Assessment Framework for Grasslands--A Case Study of Gannan Prefecture, Northeastern Tibetan Plateau. Ready to Submit. In preparation for submission to *Journal of Cleaner Production*.
 
 Feng, S., et al., (2022). Land Use/Land Cover Mapping Based on GEE for the Monitoring of Changes in Ecosystem Types in the Upper Yellow River Basin over the Tibetan Plateau *Remote Sensing*, 14(21), 5361. [link](https://www.mdpi.com/2072-4292/14/21/5361))
 
