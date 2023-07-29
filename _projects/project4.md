@@ -1,5 +1,5 @@
 ---
-title: "Remote sensing monitoring project of nutritional quality of Hexi alfalfa"
+title: "Remote sensing monitoring and inversion project of nutritional quality of Hexi alfalfa"
 excerpt: "Participate in the alfalfa pretreatment, hyperspectral data preprocessing, photo shooting and mapping work of the project <br/><img src='https://senyaofeng.github.io/Feng.github.io/images/mxz-a.png'>"
 collection: projects
 date: 2023-06-05
