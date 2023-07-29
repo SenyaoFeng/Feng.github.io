@@ -16,7 +16,7 @@ I am a Master’s Degree Student in the Lanzhou University and [SKLAGE@LZU](http
 <b>Research Interests:</b>
 * Remote Sening and Geographic Information System
 * Land Use/Land Cover Change Monitoring
-* Ecological Risk Assessment Based on Remote Sensing
+* Ecological Assessment Based on Remote Sensing
 * Satellite-based vegetation inversion
 
 ## Selected Journal Publications
