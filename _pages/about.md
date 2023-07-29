@@ -17,6 +17,7 @@ I am a Master’s Degree Student in the Lanzhou University and [SKLAGE@LZU](http
 * Remote Sening and Geographic Information System
 * Land Use/Land Cover Change Monitoring
 * Ecological Risk Assessment Based on Remote Sensing
+* Satellite-based vegetation inversion
 
 ## Selected Journal Publications
 Feng, S., et al., (2023). Drought monitoring and drought risk assessment of alpine grasslands on the Tibetan Plateau under climate change. Ready to Submit. In preparation for submission to *AGRICULTURE ECOSYSTEMS & ENVIRONMENT*.
