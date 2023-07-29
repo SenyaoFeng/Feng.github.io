@@ -39,4 +39,4 @@ Skills & Expertise
 * Programming Skills: Python, Matlab, R, Javascript (Google Earth Engine)
 * Ability: Machine Learning, Remote Sensing-based Inversion, Ecological Assessment.
 * Tools: rich experience in using Arcpy, Erdas, ENVI, ArcGIS Pro, IDRISI, QGIS, eCognition, Sigmaplot, Origin and Visio.
-* Interest Areas: Ecosystem Services, Ecological Risk Assessment, Eco-Health, LUCC.
+* Interest Areas: LUCC, Inversion, Ecological Risk, Ecosystem Services, Eco-Health.
