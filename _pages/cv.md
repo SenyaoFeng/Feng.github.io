@@ -22,7 +22,7 @@ Research Interests
 * Remote Sening and Geographic Information System
 * Climate change impact on the ecosystems (e.g. grassland droughts)
 * Ecological Assessment and Environmental Management (e.g.ecological risk and ecosystem health)
-* Remote sensing data-based inversion (e.g. multispectral and hyperspectral data)
+* Remote sensing Data-based Inversion (e.g. multispectral and hyperspectral data)
   
 Publications
 ======
