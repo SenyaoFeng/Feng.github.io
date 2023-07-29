@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Senyao Feng"
 title_separator          : "-"
 name                     : &name "Senyao Feng"
-description              : &description "Master student in SKLAGE@LZU, major in Ecological Remote Sensing and Geographic Information Systems"
+description              : &description "Master student in SKLAGE@LZU, major in Ecological Remote Sensing and Geographic Information System"
 url                      : https://senyaofeng.github.io/Feng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "senyaofeng.github.io/Feng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Senyao Feng"
   avatar           : "profile.png"
-  bio              : "Master student in SKLAGE@LZU, major in ecological remote sensing and geographic information Systems"
+  bio              : "Master student in SKLAGE@LZU, major in ecological remote sensing and geographic information System"
   location         : "Guilin, Guangxi"
   employer         :
   pubmed           : 
