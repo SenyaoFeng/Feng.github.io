@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV(en)](http://senyaofeng.github.io/Feng.github.io/files/CV_Feng.pdf) or [CV(zh-cn)](http://senyaofeng.github.io/Feng.github.io/files/CV_Feng_Chinese.pdf)
+Download [CV(en)](http://senyaofeng.github.io/Feng.github.io/files/CV_EN.pdf) or [CV(cn)](http://senyaofeng.github.io/Feng.github.io/files/CV_CN.pdf)
 ======
 
 Education
